@@ -9,6 +9,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=🔮+Visionary+AI+Engineer+Crafting+Intelligence+with+Purpose+%26+Precision;⚡+Turning+Mathematics+into+Magic+%7C+Code+into+Consciousness;🚀+Pioneering+Digital+Breakthroughs+That+Reshape+Humanity" />
 </div>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hopessugar&label=Profile%20views&color=0e75b6&style=flat" alt="hopessugar" />
+</p>
+
+
 <!-- Social + Contact -->
 <div align="center">
   <a href="mailto:vyassilky2004@gmail.com">
@@ -127,26 +133,38 @@
 
 <div align="center">
 
-  <h2>🚀 My GitHub Performance</h2>
+  
 
- <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hopessugar&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&radius=15" width="100%" />
+  ### 🚀 GitHub Stats & Activity
 
-<!-- GitHub Stats and Languages -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&theme=dracula&hide_border=true" alt="hopessugar" />
+</p>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopessugar&theme=radical&hide_border=true" />
+</p>
 
-   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+---
 
-<!-- GitHub Streaks -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopessugar&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&border_radius=15" width="70%" />
-</div>
+### 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hopessugar&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### ⏱ Weekly Dev Metrics (Optional if using WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 <!-- Custom Footer Visual / Aesthetic Element -->
 <div align="center" style="margin-top: 20px;">
