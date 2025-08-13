@@ -135,41 +135,37 @@
 
   
 
-  ### 🚀 GitHub Stats & Activity
+## 🚀 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&theme=dracula&hide_border=true" alt="hopessugar" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopessugar&theme=radical&hide_border=true" />
-</p>
+### 💻 My GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://github.com/hopessugar">
+  <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" alt="GitHub Stats" />
+</a>
 
----
+<a href="https://github.com/hopessugar">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopessugar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D28D9&ring=9333EA&fire=EAB308&currStreakLabel=FACC15" alt="GitHub Streak" />
+</a>
 
-### 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hopessugar&theme=react-dark&hide_border=true" />
-</p>
+<a href="https://github.com/hopessugar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
 ---
 
-### ⏱ Weekly Dev Metrics (Optional if using WakaTime)
+### 🌟 Profile Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=hopessugar&theme=onedark&no-frame=true&no-bg=true&margin-w=5&row=1" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+---
 
+### 📊 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hopessugar&theme=react-dark&bg_color=0D1117&hide_border=true" />
 
-
-<!-- Custom Footer Visual / Aesthetic Element -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" />
 </div>
+
+
 
 <!-- Current Missions -->
 <hr/>
