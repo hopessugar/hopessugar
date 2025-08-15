@@ -355,9 +355,6 @@ class CurrentFocus:
 <div align="center">
   <h3>🐍 CONTRIBUTION SNAKE</h3>
   
-  <!-- Option 1: Direct SVG -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  
   <!-- Option 2: Alternative Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
